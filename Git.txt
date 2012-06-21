@@ -1,4 +1,0 @@
-GitGUI
-GitBash
-Add new linefsdfd
-Hihi
